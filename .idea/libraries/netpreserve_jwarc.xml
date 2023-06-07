@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="netpreserve.jwarc" type="repository">
+    <properties maven-id="org.netpreserve:jwarc:0.20.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netpreserve/jwarc/0.20.0/jwarc-0.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
